@@ -1,0 +1,31 @@
+{
+    "updated": 1376243771,
+    "places": [
+        {
+            "id": 1,
+            "name": "Third floor Espresso",
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "logo": "http://www.3fe.com/themes/3fe/images/3fe.png",
+            "web": "www.3fe.com",
+            "twitter": "@3FE",
+            "foursquare": "4e4f9d76fa7626401eaba3d9",
+            "googlePlaces": ""
+        },
+        {
+            "id": 2,
+            "name": "Cup",
+            "location": {
+                "lat": 0.0,
+                "lng": 0.0
+            },
+            "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc1/c13.5.160.160/382843_244981302237291_1844510456_n.jpg",
+            "web": "www.cupcafe.ie",
+            "twitter": "@CupDublin",
+            "foursquare": "4f1825d6e4b0b4cc23ba17e6",
+            "googlePlaces": "c5eda37dea58ddbde29d6b5946fd599aac296723" 
+        }
+    ]
+}
